@@ -33,13 +33,13 @@ body {
 }
 
 .hello {
-  font-size: 14px;
+  font-size: 48px;         /* Aqui aumenta o nome hello*/
   letter-spacing: 2px;
   color: var(--accent);
 }
 
 .left h1 {
-  font-size: 3.5rem;
+  font-size: 9.5rem;
   margin: 10px 0;
   color: var(--accent);
 }
